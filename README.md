@@ -42,11 +42,11 @@ Bu loyiha — SwiftUI va Firebase asosida yozilgan oddiy **Savol-Javob Forum** i
 
 ## 📸 Skreenshotlar
 
-> 💡 ![Forum Screenshot](Screenshots/Forum.png)
-> ![Savollar Screenshot](Screenshots/Savollar.png)
-> ![Javoblar Screenshot](Screenshots/Javoblar.png)
-> ![Login Screenshot](Screenshots/Login.png)
-> ![Registr Screenshot](Screenshots/Registr.png)
+> 💡 ![Forum Screenshot](ForumApp/Screenshots/Forum.png)
+> ![Savollar Screenshot](ForumApp/Screenshots/Savollar.png)
+> ![Javoblar Screenshot](ForumApp/Screenshots/Javoblar.png)
+> ![Login Screenshot](ForumApp/Screenshots/Login.png)
+> ![Registr Screenshot](ForumApp/Screenshots/Registr.png)
 
 ---
 
